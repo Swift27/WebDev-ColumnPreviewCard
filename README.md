@@ -10,6 +10,3 @@ Thanks for checking out this 3-column preview card component. This responsive we
 
 - HTML5
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
